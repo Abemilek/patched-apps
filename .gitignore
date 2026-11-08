@@ -1,0 +1,24 @@
+# App binaries and bundles are distributed through Releases, not Git
+apk/
+android/
+morphe/
+legacy/
+*.apk
+*.xapk
+*.apkm
+*.apks
+*.mpp
+*.jar
+*.rvp
+
+# Signing keys
+*.keystore
+*.jks
+*.p12
+
+# Local notes, logs and helper files
+README.es.md
+SHA256SUMS
+patch.sh
+repo.txt
+*.log
