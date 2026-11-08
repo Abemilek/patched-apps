@@ -16,6 +16,7 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 | [Facebook](https://github.com/Abemilek/patched-apps/releases/tag/facebook-583.0.0.39.55) | 583.0.0.39.55 | arm64-v8a, armeabi-v7a | Hushfacebook 0.16.1 | 11.0 |
 | [Gboard Lite](https://github.com/Abemilek/patched-apps/releases/tag/gboard-18.5.1) | 18.5.1.993608717 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 8.1 |
 | [Brave](https://github.com/Abemilek/patched-apps/releases/tag/brave-1.98.63) | 1.98.63 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 10.0 |
+| [Proton Mail](https://github.com/Abemilek/patched-apps/releases/tag/proton-mail-7.11.12) | 7.11.12 | arm64-v8a, armeabi-v7a, x86, x86_64 | hxreborn 1.73.0 + Kveld 2.10.1 | 29 |
 
 ## Installation
 

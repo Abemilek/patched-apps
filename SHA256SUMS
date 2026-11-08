@@ -1,0 +1,69 @@
+f59833fce671fd952a1ea85f7e6f0c2d8d42d20ac15c09d40cbdf762ac449dbd  android/microg-7.2.2.apk
+64732f6a1c718123528fcb3e0b07b42edfcd28c03c131ae5d0b3d76539101ec7  android/morphe-manager-1.35.0.apk
+1b506ab5f03d16a2f65026d5e0e1910d01fc1e2152f21eaeb44ed2f30856597b  morphe/morphe-desktop-1.18.1-all.jar
+ddb9b3459a717e1205ab9987bed058699da87940ed089bebc3f569994f9a2fb0  morphe/morphe-desktop-2.0.0-dev.5-all.jar
+e6c5594b79b0aa0db70096c1195587c9de5af517ea097dff0f1d70ba5726fe44  morphe/patches-1.47.0.mpp
+01cb828fcc66bcdda7c4242fdc509518107b883eaf26665b0da482945b7a8033  morphe/piko-3.10.0.mpp
+813465be940b336e1c52e54753401654276df4c55d92473801f6b0638a33cefe  morphe/piko-3.2.0.mpp
+6d6494f290174c2734a4b5c8f323c9fd4434bb201efb27378e77765dc5e857e9  morphe/hushfacebook-0.16.1.mpp
+c9fc69c18d86eb1a6949a9c8fb76490fa5eb50ecabc2a1fa89f4b86610925503  morphe/kveld-2.10.1.mpp
+575b1345620abed45ec2d33bfc086a5479eeb3a896b9f7af78374b85cbafeabf  morphe/gboard-options.json
+4cbf6321760241f260418919cc8ca5dbbe026e6484c8be78ef0a6ff85252ccc6  morphe/gboard-options-setup.json
+7258e85083698e4d32e07fecbef95bac815bed4171a077d68d70a8014cb46857  morphe/brave-options.json
+
+# APKs de X parcheados (los que se instalan)
+4aa67e8fcef7f2f0468dcb7f9a518542ee40769da53d26326f3a6453361c95b0  apk/x/patched/X_12.19.1-release.0_piko-3.10.0_ads.apk
+0f205713d9b435af8b8d9a0a04caa2d5d62416ea7514407cb57598a15e98cde4  apk/x/patched/X_11.0.0_piko-2.0.0_ads.apk
+
+# XAPKs originales de X
+9d5a97428fa035504bb1dc94b7e27aa2194f2e1c87d2c555419772b05b4b270d  apk/x/original/X_12.19.1-release.0_arm64-v8a.xapk
+f5be1170b05314de350f6d05353ec21211aff1bf765bc52c00762587f5212fe7  apk/x/original/X_11.0.0-release.0_armeabi-v7a.xapk
+
+# APKs de YouTube parcheados (los que se instalan)
+048cd3d183bec80c7f021b6c94cee8c80e3664a3b79018af9bf23ddc88055dda  apk/youtube/patched/YouTube_20.21.37_arm64-v8a_morphe.apk
+b7844e29779649890e1e2462d9c2fb858577d78dd450e2a6cf715843ed29bf15  apk/youtube/patched/YouTube_20.21.37_armeabi-v7a_morphe.apk
+
+# APK universal original de YouTube
+ddbf39fa2729f3272616ef8e55a613aa17fa7527a25f923f849b2d2c4401002a  apk/youtube/original/YouTube_20.21.37_universal.apk
+
+# APKs de Instagram parcheados (los que se instalan)
+4d0e83c6923cb43b0a0472bd96f4648e793cf76fdb0d03995526763b04e2c71f  apk/instagram/patched/Instagram_447.0.0.55.81_arm64-v8a_piko-3.10.0.apk
+c4ac4b4a21a2566d02a1a2529086621d77fe59c9b6cb3205e569d4d25c13ad7e  apk/instagram/patched/Instagram_423.0.0.47.66_armeabi-v7a_piko-3.2.0.apk
+
+# XAPKs originales de Instagram
+fe37a10d6e98448f0394d28cea1ded7165b44aec07e9bfc12370082ae854f901  apk/instagram/original/Instagram_447.0.0.55.81_arm64-v8a.xapk
+55ad80758487ea6f340de66b78200da229c2b5eb6d351005df0717f7b6a26ab3  apk/instagram/original/Instagram_423.0.0.47.66_armeabi-v7a.xapk
+
+# APKs de Facebook parcheados (los que se instalan)
+23c2018a8a5e34dda7966ac701a6808afe99a3981742ede4fbe3020fe11d1ad3  apk/facebook/patched/Facebook_583.0.0.39.55_arm64-v8a_hushfacebook-0.16.1.apk
+d8411ff30359bd85f5763efcfaf76741e5ea5a67ba7c210b6ce4e34e62728375  apk/facebook/patched/Facebook_583.0.0.39.55_armeabi-v7a_hushfacebook-0.16.1.apk
+
+# XAPKs originales de Facebook
+8a49c3718873272b3a4fd7844113713279ea30bed60fc5b47e4a42598bfe44be  apk/facebook/original/Facebook_583.0.0.39.55_arm64-v8a.xapk
+9d5a88d2f3b73a2893c65d903cbab9709340f424f3ab4354d7192f9f926b9678  apk/facebook/original/Facebook_583.0.0.39.55_armeabi-v7a.xapk
+
+# APKs de Gboard Lite parcheados (los que se instalan)
+7a72629422b5df8a6c758dbc18b618ae1e6e94e06750ac53fc0e8ce27fe63819  apk/gboard/patched/Gboard_18.5.1.993608717-lite_beta_arm64-v8a_kveld-2.10.1.apk
+cd0887fba51cb2c5290a576bf99beb6cbd1980512faa90d767ac4b4b19f5ca12  apk/gboard/patched/Gboard_18.5.1.993608717-lite_beta_armeabi-v7a_kveld-2.10.1.apk
+
+# APKs originales de Gboard Lite 18.5.1
+984cad09249dcc2e98682d182071bdb2f1ff3caf9bb7d7be5ee73c2990344c39  apk/gboard/original/Gboard_18.5.1.993608717-lite_beta_arm64-v8a.apk
+e2600a73fae2912bb4147406918adbbb63a66af60ead691bf02dec7362b93a0f  apk/gboard/original/Gboard_18.5.1.993608717-lite_beta_armeabi-v7a.apk
+
+# APKs de configuración de Gboard (con Internet, solo para descargar el idioma)
+182c7198d9a591f36a53ca22f82d39e32f07b7a1c93c44c7fdfe37574627ea6a  apk/gboard/setup/Gboard_18.5.1.993608717-lite_beta_arm64-v8a_setup-online.apk
+f4c3bbccdf63f4b82c2538ef78b9bfa58973c5d2ae71caa651ec07f11ecfc15e  apk/gboard/setup/Gboard_18.5.1.993608717-lite_beta_armeabi-v7a_setup-online.apk
+
+# APKs de Brave parcheados (los que se instalan)
+60e4d42b8bc2da587202246455df88f61d166336a179a51c63201c8cd7498a5b  apk/brave/patched/Brave_1.98.63_arm64-v8a_kveld-2.10.1.apk
+35dacaf81a80e6dcfbff34ec93052094010d1ec7fec83cbf950da7e48a7b8ae2  apk/brave/patched/Brave_1.98.63_armeabi-v7a_kveld-2.10.1.apk
+
+# APKs originales de Brave 1.98.63
+b3fa3a8c576635785093e180139c2cc8acc8442dccdfc653fe368da6cc01c595  apk/brave/original/BraveMonoarm64.apk
+fb08e64403bc2ab657e50a06630083277b16ffb9d24478262020bc004ae1ce9b  apk/brave/original/BraveMonoarm.apk
+
+# Herramientas para el build Android 8
+e4393882202c78215cf5bd80cc35d8923628897b03c7aab9997fde68d0f7cc5e  legacy/piko-2.0.0.rvp
+b6af8349600f56ea51d96d49aa4d2f288e28c79cd649349ba70c8b72ce045daf  legacy/revanced-cli-5.0.1-all.jar
+a9cd40df818845456be6d696de6110c89edf4b0a0580cb83438ed6b25a366e67  legacy/APKEditor-1.4.9.jar
+ProtonMail_7.11.12_hxreborn-1.73.0_kveld-2.10.1.apk EC219245A82382B8E9EB7CC7424F2D514B95B4089AE08AD704B0D09D345844ED
