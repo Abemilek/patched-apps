@@ -10,12 +10,12 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 
 | App | Version | Architecture | Patched with | Min Android |
 | --- | --- | --- | --- | --- |
-| X | 12.19.1 / 11.0.0 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 2.0.0 | 9.0 / 8.0 |
-| YouTube | 20.21.37 | arm64-v8a, armeabi-v7a | Morphe 1.47.0 | 8.0 |
-| Instagram | 447.0.0.55.81 / 423.0.0.47.66 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 3.2.0 | 9.0 / 8.0 |
-| Facebook | 583.0.0.39.55 | arm64-v8a, armeabi-v7a | Hushfacebook 0.16.1 | 11.0 |
-| Gboard Lite | 18.5.1.993608717 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 8.1 |
-| Brave | 1.98.63 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 10.0 |
+| [X](https://github.com/Abemilek/patched-apps/releases/tag/x-12.19.1) | 12.19.1 / 11.0.0 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 2.0.0 | 9.0 / 8.0 |
+| [YouTube](https://github.com/Abemilek/patched-apps/releases/tag/youtube-20.21.37) | 20.21.37 | arm64-v8a, armeabi-v7a | Morphe 1.47.0 | 8.0 |
+| [Instagram](https://github.com/Abemilek/patched-apps/releases/tag/instagram-447.0.0.55.81) | 447.0.0.55.81 / 423.0.0.47.66 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 3.2.0 | 9.0 / 8.0 |
+| [Facebook](https://github.com/Abemilek/patched-apps/releases/tag/facebook-583.0.0.39.55) | 583.0.0.39.55 | arm64-v8a, armeabi-v7a | Hushfacebook 0.16.1 | 11.0 |
+| [Gboard Lite](https://github.com/Abemilek/patched-apps/releases/tag/gboard-18.5.1) | 18.5.1.993608717 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 8.1 |
+| [Brave](https://github.com/Abemilek/patched-apps/releases/tag/brave-1.98.63) | 1.98.63 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 10.0 |
 
 ## Installation
 
