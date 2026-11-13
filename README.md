@@ -39,9 +39,18 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 - **YouTube:** install MicroG first (included in the YouTube release). The patched app uses the package `app.morphe.android.youtube`.
 - **Instagram:** the arm64 build is a Piko clone and can coexist with the official app. The armv7 build replaces the official app.
 - **Facebook:** requires Android 11 or newer.
-- **Facebook Lite:** arm64-v8a requires Android 8.0+, armeabi-v7a requires Android 6.0+. Includes AMOLED resources for the dark theme, popups, splash and notifications; enable dark mode in the app. Server-provided colors and the video quality sheet may stay dark gray. Sponsored posts are hidden client-side and third-party analytics SDKs are removed, but Meta's own server-side telemetry cannot be fully disabled by patching.
+- **Facebook Lite:** arm64-v8a requires Android 8.0+, armeabi-v7a requires Android 6.0+. Non-AMOLED builds; dark mode follows server-provided colors. Video quality sheet may stay dark gray. Sponsored posts are hidden client-side and third-party analytics SDKs are removed, but Meta's own server-side telemetry cannot be fully disabled by patching. Auto next reel toggle is disabled (feature non-functional in this build).
 - **Gboard Lite:** the offline build has no `INTERNET` permission. To download a language dictionary, install the `setup-online` build from the release, download the language, then install the offline build over it.
 - **Brave:** after installing, open **Settings → General → Brave Origin** and disable Leo AI, VPN, Rewards, News and Wallet. Set **Appearance → Theme → Dark** to enable the AMOLED theme.
+
+# Non-AMOLED Facebook Lite 536.0.0.11.107 APK checksums
+
+| Architecture | SHA-256 |
+| --- | --- |
+| arm64-v8a | `a892a281f4005e04716abd9984c3adac34380f462dae56eecd3c65c331fba5c0` |
+| armeabi-v7a | `24486bfaac3dd0fbfeeefa3c6e0bfd452c8c0a6a0df6316aec56c29f233c66f6` |
+
+*Non-AMOLED builds. These APKs can be installed over the AMOLED version without data loss.*
 
 ## Verification
 

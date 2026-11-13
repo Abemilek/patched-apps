@@ -50,9 +50,9 @@ fe18a20a2fdfb4ebcff15389df9890cc0fb569d46b5d7086389a5d8ef2a86c9e  apk/facebook-l
 f93f4fcc5783353e59b1f93a9cc62e75b91174c2897a32820b4df3b55838a284  apk/facebook-lite/original/FacebookLite_536.0.0.11.107_arm64-v8a.apk
 bd879f87fd4227bec31ab59ef2e3191ad87f62dc352ce0e6ba6cba71c038b0b4  apk/facebook-lite/original/FacebookLite_536.0.0.11.107_armeabi-v7a.apk
 
-# Builds de referencia sin AMOLED (solo local, no se publican)
-a69707c8f1f6ddb3a2d5544a930f34e62b5be22129a1460e4d38c7c32b52c2d5  apk/facebook-lite/patched/fallback-non-amoled/FacebookLite_536.0.0.11.107_arm64-v8a_blazeftl-1.6.7_ftl-1.43.7.4.apk
-9bf2dc91ee4ae8e8c1a84f9457218bcaeb9c1c2a56d6bccbcfb5724b79e64ebf  apk/facebook-lite/patched/fallback-non-amoled/FacebookLite_536.0.0.11.107_armeabi-v7a_blazeftl-1.6.7_ftl-1.43.7.4.apk
+# APKs de Facebook Lite 536.0.0.11.107 non-AMOLED (los que se instalan)
+a892a281f4005e04716abd9984c3adac34380f462dae56eecd3c65c331fba5c0  apk/facebook-lite/patched/non-amoled/FacebookLite_536.0.0.11.107_arm64-v8a_blazeftl-1.6.7_ftl-1.43.7.4.apk
+24486bfaac3dd0fbfeeefa3c6e0bfd452c8c0a6a0df6316aec56c29f233c66f6  apk/facebook-lite/patched/non-amoled/FacebookLite_536.0.0.11.107_armeabi-v7a_blazeftl-1.6.7_ftl-1.43.7.4.apk
 
 # APKs de Gboard Lite parcheados (los que se instalan)
 7a72629422b5df8a6c758dbc18b618ae1e6e94e06750ac53fc0e8ce27fe63819  apk/gboard/patched/Gboard_18.5.1.993608717-lite_beta_arm64-v8a_kveld-2.10.1.apk
