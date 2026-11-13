@@ -14,6 +14,7 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 | [YouTube](https://github.com/Abemilek/patched-apps/releases/tag/youtube-20.21.37) | 20.21.37 | arm64-v8a, armeabi-v7a | Morphe 1.47.0 | 8.0 |
 | [Instagram](https://github.com/Abemilek/patched-apps/releases/tag/instagram-447.0.0.55.81) | 447.0.0.55.81 / 423.0.0.47.66 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 3.2.0 | 9.0 / 8.0 |
 | [Facebook](https://github.com/Abemilek/patched-apps/releases/tag/facebook-583.0.0.39.55) | 583.0.0.39.55 | arm64-v8a, armeabi-v7a | Hushfacebook 0.16.1 | 11.0 |
+| [Facebook Lite](https://github.com/Abemilek/patched-apps/releases/tag/facebook-lite-536.0.0.11.107) | 536.0.0.11.107 | arm64-v8a, armeabi-v7a | BlazeFTL 1.6.7 + FTL 1.43.7.4 | 8.0 / 6.0 |
 | [Gboard Lite](https://github.com/Abemilek/patched-apps/releases/tag/gboard-18.5.1) | 18.5.1.993608717 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 8.1 |
 | [Brave](https://github.com/Abemilek/patched-apps/releases/tag/brave-1.98.63) | 1.98.63 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 10.0 |
 | [Proton Mail](https://github.com/Abemilek/patched-apps/releases/tag/proton-mail-7.11.12) | 7.11.12 | arm64-v8a, armeabi-v7a, x86, x86_64 | hxreborn 1.73.0 + Kveld 2.10.1 | 29 |
@@ -38,6 +39,7 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 - **YouTube:** install MicroG first (included in the YouTube release). The patched app uses the package `app.morphe.android.youtube`.
 - **Instagram:** the arm64 build is a Piko clone and can coexist with the official app. The armv7 build replaces the official app.
 - **Facebook:** requires Android 11 or newer.
+- **Facebook Lite:** arm64-v8a requires Android 8.0+, armeabi-v7a requires Android 6.0+. Includes AMOLED resources for the dark theme, popups, splash and notifications; enable dark mode in the app. Server-provided colors and the video quality sheet may stay dark gray. Sponsored posts are hidden client-side and third-party analytics SDKs are removed, but Meta's own server-side telemetry cannot be fully disabled by patching.
 - **Gboard Lite:** the offline build has no `INTERNET` permission. To download a language dictionary, install the `setup-online` build from the release, download the language, then install the offline build over it.
 - **Brave:** after installing, open **Settings → General → Brave Origin** and disable Leo AI, VPN, Rewards, News and Wallet. Set **Appearance → Theme → Dark** to enable the AMOLED theme.
 
