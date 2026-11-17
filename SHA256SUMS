@@ -79,3 +79,7 @@ e4393882202c78215cf5bd80cc35d8923628897b03c7aab9997fde68d0f7cc5e  legacy/piko-2.
 b6af8349600f56ea51d96d49aa4d2f288e28c79cd649349ba70c8b72ce045daf  legacy/revanced-cli-5.0.1-all.jar
 a9cd40df818845456be6d696de6110c89edf4b0a0580cb83438ed6b25a366e67  legacy/APKEditor-1.4.9.jar
 ProtonMail_7.11.12_hxreborn-1.73.0_kveld-2.10.1.apk EC219245A82382B8E9EB7CC7424F2D514B95B4089AE08AD704B0D09D345844ED
+
+# APKs de Reddit parcheados
+8d46f973921c3c98211dc40bea88dc32c7903be8785c3974f51a34eb49b2566e  apk/reddit/patched/Reddit_2026.24.0_arm64-v8a_morphe-1.47.0.apk
+7dfbe34b2553673209253df55dcd9048d5846f0fffc56209efbc23fab7af9fbe  apk/reddit/patched/Reddit_2026.24.0_armeabi-v7a_morphe-1.47.0.apk
