@@ -15,10 +15,10 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 | [Instagram](https://github.com/Abemilek/patched-apps/releases/tag/instagram-447.0.0.55.81) | 447.0.0.55.81 / 423.0.0.47.66 | arm64-v8a / armeabi-v7a | Piko 3.10.0 / 3.2.0 | 9.0 / 8.0 |
 | [Facebook](https://github.com/Abemilek/patched-apps/releases/tag/facebook-583.0.0.39.55) | 583.0.0.39.55 | arm64-v8a, armeabi-v7a | Hushfacebook 0.16.1 | 11.0 |
 | [Facebook Lite](https://github.com/Abemilek/patched-apps/releases/tag/facebook-lite-536.0.0.11.107) | 536.0.0.11.107 | arm64-v8a, armeabi-v7a | BlazeFTL 1.6.7 + FTL 1.43.7.4 | 8.0 / 6.0 |
-| [Reddit](https://github.com/Abemilek/patched-apps/releases/tag/reddit-2026.24.0) | 2026.24.0 | arm64-v8a, armeabi-v7a | Morphe 1.47.0 | 29 | 29 |
+| [Reddit](https://github.com/Abemilek/patched-apps/releases/tag/reddit-2026.24.0) | 2026.24.0 | arm64-v8a, armeabi-v7a | Morphe 1.47.0 | 29 |
 | [Gboard Lite](https://github.com/Abemilek/patched-apps/releases/tag/gboard-18.5.1) | 18.5.1.993608717 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 8.1 |
 | [Brave](https://github.com/Abemilek/patched-apps/releases/tag/brave-1.98.63) | 1.98.63 | arm64-v8a, armeabi-v7a | Kveld 2.10.1 | 10.0 |
-| [Proton Mail](https://github.com/Abemilek/patched-apps/releases/tag/proton-mail-7.11.12) | 7.11.12 | arm64-v8a, armeabi-v7a, x86, x86_64 | hxreborn 1.73.0 + Kveld 2.10.1 | 29 |
+| [Proton Mail](https://github.com/Abemilek/patched-apps/releases/tag/proton-mail-7.12.1) | 7.12.1 | arm64-v8a, armeabi-v7a | hxreborn 1.83.0 + Kveld 2.10.1 | 29 |
 
 ## Installation
 
@@ -40,11 +40,20 @@ Download the builds from **[Releases](https://github.com/Abemilek/patched-apps/r
 - **YouTube:** install MicroG first (included in the YouTube release). The patched app uses the package `app.morphe.android.youtube`.
 - **Instagram:** the arm64 build is a Piko clone and can coexist with the official app. The armv7 build replaces the official app.
 - **Facebook:** requires Android 11 or newer.
-- **Reddit:** arm64-v8a requires Android 29+, armeabi-v7a requires Android 29+. Non-AMOLED builds; dark mode follows server-provided colors. Video quality sheet may stay dark gray. Sponsored posts are hidden client-side and third-party analytics SDKs are removed, but Meta's own server-side telemetry cannot be fully disabled by patching. Auto next reel toggle is disabled (feature non-functional in this build). **AMOLED theme is built-in** using Reddit's built-in Midnight (AMOLED) theme with canvas #0a0a0a and tones through #000000; **Reduce motion** is enabled by default via smali patch to `com.reddit.accessibility.c.d()` method, though users can toggle it in settings.
+- **Facebook Lite:** arm64-v8a requires Android 8.0+, armeabi-v7a requires Android 6.0+. Non-AMOLED builds; dark mode follows server-provided colors. Video download, seek bar and Morphe settings are included. Sponsored posts are hidden client-side and third-party analytics SDKs are removed, but Meta's own server-side telemetry cannot be fully disabled by patching. The auto next reel toggle is disabled because the feature is non-functional in this build.
+- **Reddit:** requires Android 10 or newer (API 29). Built with Morphe 1.47.0. The AMOLED theme is Reddit's built-in **Midnight (AMOLED)** theme (canvas `#0a0a0a`, tones through `#000000`). Reduce motion is enabled by default through a smali patch to `com.reddit.accessibility.c.d()` and can still be toggled in settings. Sponsored posts and third-party analytics SDKs are removed or disabled client-side; Reddit's server-side telemetry cannot be fully disabled by patching. `versionCode` is fixed at `2147483647` to block Play Store updates.
 - **Gboard Lite:** the offline build has no `INTERNET` permission. To download a language dictionary, install the `setup-online` build from the release, download the language, then install the offline build over it.
 - **Brave:** after installing, open **Settings → General → Brave Origin** and disable Leo AI, VPN, Rewards, News and Wallet. Set **Appearance → Theme → Dark** to enable the AMOLED theme.
+- **Proton Mail:** requires Android 10 or newer (API 29). Built with hxreborn 1.83.0 + Kveld 2.10.1. Separate arm64-v8a and armeabi-v7a APKs; unused native libraries, extra languages (English and Spanish kept), unused screen densities and debug metadata are removed. The free-account limit, upgrade promotions and the "Sent from Proton Mail" signature are patched out; tracking SDKs are blocked and system logs are silenced. Premium features remain server-side. Signed with the same key as the 7.11.12 patched build, so it installs as an update over that build; the official app still requires an uninstall.
 
-# Non-AMOLED Facebook Lite 536.0.0.11.107 APK checksums
+## Proton Mail 7.12.1 APK checksums
+
+| Architecture | SHA-256 |
+| --- | --- |
+| arm64-v8a | `db9ecd02bad8d9202a438bc7df60539d0420db0f2fc8231848aa973835eb644c` |
+| armeabi-v7a | `ef21bbeb46ae9112557032139801277806848f70d621582fcfa6dac32d9537d4` |
+
+## Non-AMOLED Facebook Lite 536.0.0.11.107 APK checksums
 
 | Architecture | SHA-256 |
 | --- | --- |

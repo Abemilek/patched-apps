@@ -83,3 +83,10 @@ ProtonMail_7.11.12_hxreborn-1.73.0_kveld-2.10.1.apk EC219245A82382B8E9EB7CC7424F
 # APKs de Reddit parcheados
 8d46f973921c3c98211dc40bea88dc32c7903be8785c3974f51a34eb49b2566e  apk/reddit/patched/Reddit_2026.24.0_arm64-v8a_morphe-1.47.0.apk
 7dfbe34b2553673209253df55dcd9048d5846f0fffc56209efbc23fab7af9fbe  apk/reddit/patched/Reddit_2026.24.0_armeabi-v7a_morphe-1.47.0.apk
+
+# APKs de Proton Mail 7.12.1 parcheados
+db9ecd02bad8d9202a438bc7df60539d0420db0f2fc8231848aa973835eb644c  apk/proton-mail/patched/ProtonMail_7.12.1_arm64-v8a_hxreborn-1.83.0_kveld-2.10.1.apk
+ef21bbeb46ae9112557032139801277806848f70d621582fcfa6dac32d9537d4  apk/proton-mail/patched/ProtonMail_7.12.1_armeabi-v7a_hxreborn-1.83.0_kveld-2.10.1.apk
+
+# APK original de Proton Mail 7.12.1
+0b10d3ba36f69dfdd1eada98389dda9e2c0a1400b2c47baa3f41fd9fe70eec94  apk/proton-mail/original/ProtonMail-7.12.1_19175.apk
